@@ -1,0 +1,12 @@
+body {
+    background-color: #323232;
+    color: white;
+    margin-bottom: 10px;
+}
+
+h5 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-style: italic;
+    font-family: cursive;
+}
